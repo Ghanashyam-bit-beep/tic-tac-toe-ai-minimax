@@ -8,7 +8,7 @@ This project demonstrates how game theory and adversarial search can be used to 
 ---
 ## Project Link
 
-[Try the Tic Tac Toe AI](https://github.com/Ghanashyam-bit-beep/tic-tac-toe-ai)
+[Explore the Tic Tac Toe AI Repository](https://github.com/Ghanashyam-bit-beep/tic-tac-toe-ai)
 
 ## Features
 

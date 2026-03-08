@@ -6,6 +6,9 @@ The AI analyzes possible game states and selects the best move based on the chos
 This project demonstrates how game theory and adversarial search can be used to build intelligent decision-making systems.
 
 ---
+## Project Link
+
+[Try the Tic Tac Toe AI](https://github.com/Ghanashyam-bit-beep/tic-tac-toe-ai)
 
 ## Features
 
@@ -54,7 +57,7 @@ The AI uses the Minimax algorithm, a recursive decision-making algorithm used in
 The algorithm evaluates every possible game state and assigns scores:
 
 * +1 → AI wins
-* -1* → Human wins
+* -1 → Human wins
 *  0 → Draw
 
 The AI then chooses the move that maximizes its chances of winning while minimizing the opponent’s chances.

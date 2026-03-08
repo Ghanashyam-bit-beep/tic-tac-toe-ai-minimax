@@ -6,9 +6,6 @@ The AI analyzes possible game states and selects the best move based on the chos
 This project demonstrates how game theory and adversarial search can be used to build intelligent decision-making systems.
 
 ---
-## Project Link
-
-[Explore the Tic Tac Toe AI Repository](https://github.com/Ghanashyam-bit-beep/tic-tac-toe-ai)
 
 ## Features
 
